@@ -1,2 +1,2 @@
-# Temperature-control-system---Arduino
-Design of a temperature control system with an Arduino UNO PCB
+# Temperature Control System
+Design and implementation of a temperature control system with an Arduino UNO board
